@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-08-20T10:50:51Z",
+  "generated_at": "2026-08-28T17:39:21Z",
   "record_schema_version": 1,
   "latest_year": 2026,
   "tables": [
@@ -12,9 +12,21 @@
       "vehicles": 5129,
       "makes": 123,
       "revision": 1,
-      "updated": "2026-08-20",
+      "updated": "2026-08-28",
       "published": "2025-12-23",
       "source": "Gazzetta Ufficiale, Suppl. ord. n. 40 alla Serie generale n. 297 (23-12-2025)"
+    },
+    {
+      "year": 2025,
+      "url": "https://raw.githubusercontent.com/nilac8991/mileage-calculator-tables/v2025.1/aci_2025.json",
+      "sha256": "a390a4753169d1209e452d8a69bb15216fb8a1e5f562c4ae316cd414db2ef320",
+      "bytes": 990584,
+      "vehicles": 5039,
+      "makes": 112,
+      "revision": 1,
+      "updated": "2026-08-28",
+      "published": "2024-12-30",
+      "source": "Gazzetta Ufficiale, Suppl. ord. n. 42 alla Serie generale n. 304 (30-12-2024)"
     }
   ]
 }
